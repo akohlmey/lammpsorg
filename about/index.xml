@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>About LAMMPS on LAMMPS Molecular Dynamics Simulator</title>
-    <link>https://akohlmey.github.io/lammpsorg/about/</link>
-    <description>Recent content in About LAMMPS on LAMMPS Molecular Dynamics Simulator</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 19:28:16 -0500</lastBuildDate><atom:link href="https://akohlmey.github.io/lammpsorg/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Authors of LAMMPS</title>
-      <link>https://akohlmey.github.io/lammpsorg/about/authors/</link>
-      <pubDate>Sun, 20 Feb 2022 20:18:16 -0500</pubDate>
-      
-      <guid>https://akohlmey.github.io/lammpsorg/about/authors/</guid>
-      <description>The primary LAMMPS developers are at Sandia National Labs and Temple University:
- Steve Plimpton, sjplimp at sandia.gov Aidan Thompson, athomps at sandia.gov Stan Moore, stamoor at sandia.gov Axel Kohlmeyer, akohlmey at gmail.com Richard Berger, richard.berger at temple.edu  Past developers include Paul Crozier and Mark Stevens, both at Sandia, and Ray Shan, now at Materials Design.
-The following folks deserve special recognition. Many of the packages they have written are unique for an MD code and LAMMPS would not be as general-purpose as it is without their expertise and efforts.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About LAMMPS on LAMMPS Molecular Dynamics Simulator</title><link>https://akohlmey.github.io/lammpsorg/about/</link><description>Recent content in About LAMMPS on LAMMPS Molecular Dynamics Simulator</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Feb 2022 19:28:16 -0500</lastBuildDate><atom:link href="https://akohlmey.github.io/lammpsorg/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Authors of LAMMPS</title><link>https://akohlmey.github.io/lammpsorg/about/authors/</link><pubDate>Sun, 20 Feb 2022 20:18:16 -0500</pubDate><guid>https://akohlmey.github.io/lammpsorg/about/authors/</guid><description>The primary LAMMPS developers are at Sandia National Labs and Temple University:
+Steve Plimpton, sjplimp at sandia.gov Aidan Thompson, athomps at sandia.gov Stan Moore, stamoor at sandia.gov Axel Kohlmeyer, akohlmey at gmail.com Richard Berger, richard.berger at temple.edu Past developers include Paul Crozier and Mark Stevens, both at Sandia, and Ray Shan, now at Materials Design.
+The following folks deserve special recognition. Many of the packages they have written are unique for an MD code and LAMMPS would not be as general-purpose as it is without their expertise and efforts.</description></item></channel></rss>
