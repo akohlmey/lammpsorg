@@ -85,7 +85,7 @@ enableMissingTranslationPlaceholders = false
 
     [[menu.main]]
         name = "Documentation"
-        url = "https:/docs.lammps.org/"
+        url = "https://docs.lammps.org/"
         weight = 4
 
     [[menu.main]]
