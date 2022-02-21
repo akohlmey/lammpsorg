@@ -1,5 +1,5 @@
 ---
-title: "LAMMPS Release History"
+title: "LAMMPS Releases"
 draft: false
 ---
 

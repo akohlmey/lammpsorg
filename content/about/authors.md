@@ -1,6 +1,5 @@
 ---
 title: "Authors of LAMMPS"
-date: 2022-02-20T20:18:16-05:00
 draft: false
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: "Mailing List"
-date: 2022-02-20T20:44:42-05:00
-draft: true
+draft: false
 ---
 
+The LAMMPS mailing list is hosted by SourceForge. The mailing list began
+in 2005, and now includes tens of thousands of messages in thousands of
+threads. LAMMPS developers and other users try to respond to posted
+questions in a timely manner.
