@@ -1,0 +1,3 @@
+baseURL = 'https://akohlmey.github.io/lammpsorg/'
+languageCode = 'en-us'
+title = 'LAMMPS Molecular Dynamics Simulator'
