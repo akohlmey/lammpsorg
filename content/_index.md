@@ -1,7 +1,6 @@
 ---
-title: The LAMMPS Molecular Dynamics Simulator
+title: 'LAMMPS Molecular Dynamics Simulator Home Page'
 draft: false
 ---
 
-# Hello
-
+**lamp**: *a device that generates light, heat, or therapeutic radiation; something that illumines the mind or soul* -- www.dictionary.com
